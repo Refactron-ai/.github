@@ -97,7 +97,7 @@
   <p><strong>Follow Our Journey</strong></p>
   <ul>
     <li><strong>LinkedIn:</strong> <a href="linkedin.com/company/refactron">refactron</a></li>
-    <li><strong>Twitter (X):</strong> <a href="">@refactron</a></li>
+    <li><strong>Twitter (X):</strong> <a href="https://x.com/refactron">@refactron</a></li>
   </ul>
 </td>
 </tr>
