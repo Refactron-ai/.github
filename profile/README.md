@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://refactron.us.kg/Refactron-logo-TM.png" alt="Refactron AI Logo" width="125"/>
+  <img src="https://refactron.dev/Refactron-logo-TM.png" alt="Refactron AI Logo" width="125"/>
 </p>
 
 <h2 align="center">Refactron </h2>
@@ -89,8 +89,8 @@
 <td width="50%" valign="top">
   <p><strong>Contact Information</strong></p>
   <ul>
-    <li><strong>Website:</strong> <a href="https://refactron.us.kg">refactron.us.kg</a></li>
-    <li><strong>Email:</strong> <a href="mailto:hello@refactron.us.kg">hello@refactron.us.kg</a></li>
+    <li><strong>Website:</strong> <a href="https://refactron.dev">refactron.dev</a></li>
+    <li><strong>Email:</strong> <a href="mailto:hello@refactron.dev">hello@refactron.dev</a></li>
   </ul>
 </td>
 <td width="50%" valign="top">
