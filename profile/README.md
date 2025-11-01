@@ -82,6 +82,23 @@
 
 ---
 
+### Projects
+
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="center">Status</th>
+</tr>
+
+<tr>
+<td><strong>Refactron Library</strong></td>
+<td>Main Python library handling intelligent code refactoring, static analysis, and risk scoring.</td>
+<td align="center">✅ Stable (v1.0.0)</td>
+</tr>
+</table>
+
+
 ### Get in Touch
 
 <table width="100%">
